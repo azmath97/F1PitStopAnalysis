@@ -28,49 +28,50 @@ year: Year of the race
 - Checked for missing values and verified column data types
 
 #### 🧮 Data Manipulation
-Merged various datasets: races, pit stops, constructors, circuits, and results
+- Merged various datasets: races, pit stops, constructors, circuits, and results
 
-Filtered data for meaningful analysis (e.g., removed outliers)
+- Filtered data for meaningful analysis (e.g., removed outliers)
 
 #### 📊 Data Analysis
-Explored how pit stop durations evolved over time
+- Explored how pit stop durations evolved over time
 
-Analyzed constructor performance in pit stops
+- Analyzed constructor performance in pit stops
 
-Investigated the impact of circuits on pit stop times
+- Investigated the impact of circuits on pit stop times
 
-Analyzed the relationship between pit stops and race outcomes
+- Analyzed the relationship between pit stops and race outcomes
 
 #### 🔄 Feature Engineering
-Created new features like average pit stop duration by constructor
+- Created new features like average pit stop duration by constructor
 
-Grouped data by year, constructor, and circuit for trend analysis
+- Grouped data by year, constructor, and circuit for trend analysis
 
 ### 📈 Data Visualization
-Visualized average pit stop durations over the years
+- Visualized average pit stop durations over the years
 
-Displayed pit stop data by constructor and circuit
+- Displayed pit stop data by constructor and circuit
 
-Used scatter plots and bar charts for comparative analysis
+- Used scatter plots and bar charts for comparative analysis
 
 ### ▶️ How to Run
 Place the dataset files in your working directory.
 
-Open and run the Jupyter notebook (pit_stop_analysis.ipynb).
+- Open and run the Jupyter notebook (pit_stop_analysis.ipynb).
 
 Install required libraries:
-pip install pandas numpy matplotlib seaborn
+
+- pip install pandas numpy matplotlib seaborn
 
 ## 🎓 Summary
 This project demonstrates proficiency in:
 
-Data manipulation and merging
+- Data manipulation and merging
 
-Time series analysis of pit stop durations
+- Time series analysis of pit stop durations
 
-Group-based analytics and pivot tables
+- Group-based analytics and pivot tables
 
-Data visualization with Seaborn and Matplotlib
+- Data visualization with Seaborn and Matplotlib
 
 ###  Dataset Link :
 
